@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <title>Student Registation</title>
+</head>
+<body>
+    <!-- header -->
+    <header class="header">
+        <div class="container">
+            <div class="row">
+                <nav class="navbar bg-dark border-bottom border-body navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
+                    <!-- Navbar content -->
+                    <div class="container-fluid">
+                    
+                        <a class="navbar-brand" href="#">Student List</a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                          <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarNav">
+                          <ul class="navbar-nav">
+                            <li class="nav-item">
+                              <a class="nav-link active" aria-current="page" href="#">Home</a>
+                            </li>
+                            <li class="nav-item">
+                              <a class="nav-link" href="/student_registation.html">Register Student</a>
+                            </li>
+                           
+                          </ul>
+                        </div>
+                      </div>
+                  </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- body -->
+    <section>
+        <div class="container body-container">
+            <div class="row body-row tbl-list">
+
+                <!-- Select Student Details -->
+                <div class="row-inner-top">
+
+                    <!-- Profile image -->
+                    <div class="inner-top inner-top-left"id="inner-top-left">
+                        <img id="selected-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIn-gE6j6sjvg0ekFgFBIzVP5VdN3aBu9dLg&usqp=CAU" alt="Selected Image" class="body-img">
+
+                    </div>
+                    <!-- Prfile details -->
+                    <div class="inner-top inner-top-right" id="inner-top-right">
+                        <!-- Student name -->
+                        <div class="inner-top-right-top" id="name-div"></div>
+
+                        <!-- Student/Guardian details -->
+                        <div class="inner-top-right-bttom">
+                            <!-- Student  -->
+                            <div class="inner-top-right-bttom-left inner-top-right-bttom-details" id="student-div">STUDENT</div>
+                            <!-- guardisn -->
+                            <div class="inner-top-right-bttom-right inner-top-right-bttom-details" id="guardian-div">GUARDIAN</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Student Details list Table -->
+                <div class="row-inner-bottom">
+                    <table id="tbl" class="tbl">
+                    
+                    </table>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+
+     <!-- Footer -->
+     <footer class="footer">
+        <div class="container footer-container">
+            <div class="row footer-row">
+                <p>Shan Dahanayaka &copy; 2023 All Rights Reserved.</p> 
+            </div>
+        </div> 
+    </footer>
+    
+    <script src="JS/list.js"></script>
+    <!-- Bootsrap script -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    
+</body>
+</html>

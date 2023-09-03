@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33b8fa49-3b77-4adf-997e-ec5cb8ee032a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BACK/icet-ee-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACK/icet-ee-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACK/icet-ee-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACK/icet-ee-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACK/icet-ee-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACK/icet-ee-demo/src/main/java/edu/icet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACK/icet-ee-demo/src/main/java/edu/icet/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BACK/icet-ee-demo" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2UOhsw8yVcbGnSSRf7cclB7SrUl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/My Studies/projects/Java EE (Spring)/BACK"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33b8fa49-3b77-4adf-997e-ec5cb8ee032a" name="Changes" comment="" />
+      <created>1692816744428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692816744428</updated>
+      <workItem from="1692816745960" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
